@@ -1,4 +1,3 @@
-import React from 'react'
 import Calculator from './Calculator'
 import './App.css'
 
@@ -11,13 +10,13 @@ function App() {
       <Calculator />
       <div className="fixed bottom-4 right-4">
         <a
-          href="https://github.com/yourusername/cbse-marks-calc"
+          href="https://github.com/garrettspot/2022-term2-marks-CBSE/"
           target="_blank"
           rel="noopener noreferrer"
           className="flex items-center gap-2 bg-gray-800 hover:bg-gray-700 text-white px-4 py-2 rounded-lg transition-colors"
         >
           <img
-            src="../assets/github.png"
+            src="https://github.com/garrettspot/2022-term2-marks-CBSE/blob/main/assets/github.png"
             alt="GitHub"
             className="h-10"
           />
