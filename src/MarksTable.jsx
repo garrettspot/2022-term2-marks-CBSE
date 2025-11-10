@@ -96,7 +96,7 @@ function handleInputChange(index, field, value) {
             >
               <img
                 className="h-5 w-5"
-                src="https://github.com/garrettspot/2022-term2-marks-CBSE/blob/main/assets/plus.png"
+                src="https://raw.githubusercontent.com/garrettspot/2022-term2-marks-CBSE/refs/heads/main/assets/plus.png"
                 alt="Add More Subjects"
               />
             </button>
